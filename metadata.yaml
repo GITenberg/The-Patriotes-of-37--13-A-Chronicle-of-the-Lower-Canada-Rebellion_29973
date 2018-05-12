@@ -1,0 +1,38 @@
+_repo: The-Patriotes-of-37--13-A-Chronicle-of-the-Lower-Canada-Rebellion_29973
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wallace, W. Stewart (William Stewart)
+    aliases:
+    - Wallace, W. S. (William Stewart)
+    - Wallace, William Stewart
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '4156'
+    url: http://www.gutenberg.org/2009/agents/4156
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: DeCelles, Alfred D. (Alfred Duclos)
+    alias: Celles, Alfred D. de (Alfred Duclos)
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '34280'
+    url: http://www.gutenberg.org/2009/agents/34280
+description: ''
+gutenberg_issued: '2009-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29973'
+  lccn: '16021423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- Rebellion, 1837-1838'
+- !lcc 'F1001'
+title: "The 'Patriotes' of '37\r\nA Chronicle of the Lower Canada Rebellion"
+url: http://www.gutenberg.org/ebooks/29973
